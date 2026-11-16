@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+results.json
+*_compressed.dat
+*_decompressed.dat

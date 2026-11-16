@@ -1,0 +1,30 @@
+{
+    "success": true,
+    "compression_ratio": 3.525,
+    "time_spent": 114.66,
+    "peak_gpu_memory_gb": null,
+    "context_weight": 0.5,
+    "context_order": 5,
+    "mixing_mode": "static",
+    "context_strengths": [
+        12.0,
+        8.0,
+        4.0,
+        2.0,
+        1.0
+    ],
+    "estimated_bpb_by_weight": {
+        "0.0": 2.63938,
+        "0.05": 2.52977,
+        "0.1": 2.46458,
+        "0.2": 2.37667,
+        "0.35": 2.29757,
+        "0.5": 2.25735,
+        "0.75": 2.26699,
+        "1.0": 2.70622
+    },
+    "best_estimated_weight": "0.5",
+    "predicted_symbols": 100810,
+    "actual_mix_estimated_bpb": 2.25735,
+    "average_mix_weight": 0.5
+}
