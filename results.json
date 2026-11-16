@@ -1,0 +1,11 @@
+{
+    "success": true,
+    "compression_ratio": 3.525,
+    "time_spent": 127.55,
+    "peak_gpu_memory_gb": null,
+    "context_weight": 0.5,
+    "context_order": 5,
+    "mixing_mode": "static",
+    "original_size_bytes": 100811,
+    "compressed_size_bytes": 28599
+}
